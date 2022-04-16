@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main()
+{
+	int a,d,i=0,o=0;
+	long long int e;
+	scanf("%d",&a);
+	for (d=0; d<a; d++)
+	{
+		scanf("%lld",&e);
+		if (e<10 || e>20) o++;
+		else i++;
+	}
+	printf("%d in\n%d out\n",i,o);
+	return 0;
+}

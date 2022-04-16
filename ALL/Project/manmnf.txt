@@ -1,0 +1,6 @@
+  1. Arithmetic and Algebra.");
+  2. Solutions of Equations .");
+  3. Mensuration.");
+  4. Set.");
+  5. Number Conversion.");
+  6. Progression.");
